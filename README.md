@@ -4,8 +4,8 @@ This project showcases the creation of an interactive Pizza Sales Dashboard usin
 
 ## Dashboard Screenshots
 
-![Dashboard Page 1](dashboard_P1.png)
-![Dashboard Page 2](dashboard_P2.png)
+<img src="dashboard_P1.png" alt="Dashboard Page 1">
+<img src="dashboard_P2.png" alt="Dashboard Page 2">
 
 ## Project Overview
 
